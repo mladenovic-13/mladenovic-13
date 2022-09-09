@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-sepia-26.vercel.app](PORTFOLIO)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-one-sepia-26.vercel.app)
 
-- 📝 I regularly write articles on [https://portfolio-one-sepia-26.vercel.app/blog](PERSONAL BLOG)
+- 📝 I regularly write articles on [MY BLOG](https://portfolio-one-sepia-26.vercel.app/blog)
 
 - 📫 How to reach me **nikolanik999@gmail.com**
 
