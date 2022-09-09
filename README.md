@@ -1,4 +1,5 @@
-<h2 align="center">Passionate full-stack developer from Serbia. In love with problem solving, development, and design.</h2>
+<h2 align="center">Passionate full-stack developer from Serbia</h2> 
+<h2 align="center">In love with problem solving, development, and design.</h2>
 
 - 🌱 I’m currently learning **Web3**
 
