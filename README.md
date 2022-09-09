@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">Passionate full-stack developer from Serbia. In love with problem solving, development, and design.</h3>
 
 - 🌱 I’m currently learning **Web3**
