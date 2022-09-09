@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [MY BLOG](https://portfolio-one-sepia-26.vercel.app/blog)
 
-- 📫 How to reach me **nikolanik999@gmail.com**
+- 📫 You can reach me on **nikolanik999@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
