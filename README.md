@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://www.linkedin.com/in/nikola-mladenovic-2355371a0/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
