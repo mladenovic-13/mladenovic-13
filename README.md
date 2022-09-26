@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://portfolio-one-sepia-26.vercel.app)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://mladenovic13.com)
 
-- 📝 I regularly write articles on [MY BLOG](https://portfolio-one-sepia-26.vercel.app/blog)
+- 📝 I regularly write articles on [MY BLOG](https://mladenovic13.com/blog)
 
 - 📫 You can reach me on **mladenovic13.dev@gmail.com**
 
