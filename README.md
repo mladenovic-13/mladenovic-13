@@ -1,4 +1,4 @@
-I'm *Nikola Mladenovic*, a full stack web developer based in Belgrade, Serbia.
+I'm *Nikola Mladenovic*, a full stack web developer based in Belgrade, Serbia. </br>
 You can reach me via email at *mladenovic13.dev@gmail.com*.
 
 - Programming Languages: Golang, TypeScript, JavaScript, Rust
